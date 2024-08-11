@@ -40,9 +40,9 @@ Object.keys(jsonData).forEach(category => {
   jsonData[category].map(item => {
     // Combine NAME and الاسم fields into Commodity Name
     const commodityName =
-      item['NAME '] && item['الاسم']
-        ? `${item['NAME '].trim()} (${item['الاسم'].trim()})`
-        : (item['NAME '] || item['الاسم'])?.trim()
+      item['NAME'] && item['الاسم']
+        ? `${item['NAME'].trim()} (${item['الاسم'].trim()})`
+        : (item['NAME'] || item['الاسم'])?.trim()
 
     // Combine WIDTH, THIKNESS, and PIECES PER KILO into Size
     const size =
@@ -52,9 +52,9 @@ Object.keys(jsonData).forEach(category => {
 
     // Combine INGREDIENTS and المكونات into Description
     const description =
-      item[' INGREDIENTS '] && item[' المكونات']
-        ? `${item[' INGREDIENTS '].trim()} (${item[' المكونات'].trim()})`
-        : (item[' INGREDIENTS '] || item[' المكونات'])?.trim()
+      item['INGREDIENTS'] && item['المكونات']
+        ? `${item['INGREDIENTS'].trim()} (${item['المكونات'].trim()})`
+        : (item['INGREDIENTS'] || item['المكونات'])?.trim()
 
     const rowData = {
       'Commodity Code': item['CODE'] || '',
@@ -64,10 +64,10 @@ Object.keys(jsonData).forEach(category => {
       'Sku Name': '', // Assuming not provided
       Tags: '', // Assuming not provided
       Description: description,
-      'Commodity Type': '', // Assuming not provided
+      'Commodity Type': item['CATEGORY'] || '', // Assuming not provided
       Unit: '', // Assuming not provided
       'Commodity Group': category || '',
-      'Sub group': item['CATEGORY'] || '', // Assuming not provided
+      'Sub group': '', // Assuming not provided
       'Profit rate(%)': '', // Assuming not provided
       'Purchase Price': item['WHOLESALE PRICE'] || '',
       'Sale price': item['RETAIL PRICE'] || '',
