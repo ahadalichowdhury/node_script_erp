@@ -1,22 +1,6 @@
 {
   "Gourmet Sweets": [
     {
-      "CODE": " ",
-      "NAME ": "",
-      "الاسم": "",
-      "CATEGORY": "",
-      "PHOTO ": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PER KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      " INGREDIENTS ": "",
-      " المكونات": ""
-    }, 
-    {
       "CODE": "RM1000  E",
       "NAME ": "JALLAB                                                                           ",
       "الاسم": "    جلاّب",
@@ -659,22 +643,6 @@
   ],
   "Snow White": [
     {
-      "CODE": "SNOW WHITE ",
-      "NAME ": "",
-      " الاسم": "",
-      "CATEGORY": "",
-      "PHOTO": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PER KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      " INGREDIENTS": "",
-      " المكونات": ""
-    },
-    {
       "CODE": "SW1000",
       "NAME ": "SNOW WHITE  BALL BLUE                                          ",
       " الاسم": "     سنو وايت مدوّر أزرق",
@@ -804,22 +772,6 @@
     }
   ],
   "Chocolate": [
-    {
-      "CODE": "CHOCOLATE شوكولا",
-      "NAME ": "",
-      "   الاسم": "",
-      "CATEGORY": "",
-      "PHOTO ": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PER KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      " INGREDIENTS ": "",
-      "  المكونات": ""
-    },
     {
       "CODE": "CH1000",
       "NAME ": "EEZO ROCHE HAZELNUT                                        ",
@@ -2295,21 +2247,6 @@
   ],
   "Armoush": [
     {
-      "CODE ": "",
-      "NAME    ": "عرموش / ARMOUSH",
-      "  الاسم": "",
-      "CATEGORY": "",
-      "PHOTO ": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "retail price": "",
-      "wholesale price": "",
-      " INGREDIENTS": "",
-      " المكونات": ""
-    },
-    {
       "CODE ": "AR1000 E",
       "NAME    ": "ARMOUCH BIG                                                                                            ",
       "  الاسم": "    عرموش كبير",
@@ -2371,22 +2308,6 @@
     }
   ],
   "Dried Fruits": [
-    {
-      "CODE ": "DRIED FRUITS / فواكه مجففة",
-      "NAME ": "",
-      "  الاسم": "",
-      "CATEGORY": "",
-      "PHOTO ": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PER KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      " INGREDIENTS  ": "",
-      "  المكونات": ""
-    },
     {
       "CODE ": "DF1000",
       "NAME ": "APRICOT FILLED WITH PISTACHIOS                       ",
@@ -2565,22 +2486,6 @@
     }
   ],
   "Malban": [
-    {
-      "CODE ": "MALBAN / ملبن",
-      "NAME   ": "",
-      " الاسم": "",
-      "CATEGORY": "",
-      "PHOTO ": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PER KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      " INGREDIENTS  ": "",
-      " المكونات": ""
-    },
     {
       "CODE ": "ML1001 E",
       "NAME   ": "FIG MALBAN (SQUARE)                                                                                                                                     ",
@@ -3256,22 +3161,6 @@
   ],
   "Marzipan": [
     {
-      "CODE": "MARZIPAN / مرصبان",
-      "NAME ": "",
-      " الاسم": "",
-      "CATEGORY": "",
-      "PHOTO ": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PER KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESLE PRICE": "",
-      " INGREDIENTS ": "",
-      " المكونات": ""
-    },
-    {
       "CODE": "MZ1000 E",
       "NAME ": "MARZIPAN COCQCINEL                                                                                                                                              ",
       " الاسم": "  مرصبان دعسوقة",
@@ -3545,22 +3434,6 @@
     }
   ],
   "NOUGAT": [
-    {
-      "CODE ": "NOUGAT  /  نوغا",
-      "NAME ": "",
-      " الاسم": "",
-      "CATEGORY": "",
-      "PHOTO": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PE KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      " INGREDIENTS": "",
-      "المكونات": ""
-    },
     {
       "CODE ": "NG1000 S",
       "NAME ": "APRICOT NOUGAT  CHOCOLATE                                                                                                                          ",
@@ -4171,22 +4044,6 @@
     }
   ],
   "DRAGE": [
-    {
-      "CODE ": "Draje/ملبس",
-      "NAME ": "",
-      " الاسم": "",
-      "CATEGORY": "",
-      "PHOTO": "",
-      "TYPE": "",
-      "LENGTH": "",
-      "WIDTH": "",
-      "THIKNESS": "",
-      "PIECES PE KILO": "",
-      "RETAIL PRICE": "",
-      "WHOLESALE PRICE": "",
-      "INGREDIENTS": "",
-      "المكونات": ""
-    },
     {
       "CODE ": "DR 001",
       "NAME ": "ALMOND DRAGEE",
